@@ -21,5 +21,6 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 - [esc-hub](https://github.com/tmcit-ararobo-2026a/esc-control-hub) : M2006/M3508 CAN bus hub for `gn10-can`
 
 ## Simulation
+- [robot-sim-unity](https://github.com/tmcit-ararobo-2026a/robot-sim-unity) : Robot simulation environment using Unity
 - [robot-sim](https://github.com/tmcit-ararobo-2026a/robot-sim) : Robot simulation environment using Isaac Sim *(Coming Soon)*
 - [gn10.mid360s](https://github.com/tmcit-ararobo-2026a/gn10.mid360s) : MID360 extension for Isaac Sim (used by `robot-sim`)
