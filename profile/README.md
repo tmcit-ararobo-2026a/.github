@@ -10,6 +10,8 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 - [gn10-pointcloud-localization](https://github.com/tmcit-ararobo-2026a/gn10-pointcloud-localization) : 3D LiDAR localization using ESDF map
 - [gn10-navigation](https://github.com/tmcit-ararobo-2026a/gn10-navigation) : Navigation stack for NHK Kosen Robocon 2026
 - [realsense_dust_cloth_tracker](https://github.com/tmcit-ararobo-2026a/realsense_dust_cloth) : Dust cloth tracker using RealSense for NHK Kosen Robocon 2026
+- [LiDAR-Perception-System](https://github.com/tmcit-ararobo-2026a/LiDAR-Perception-System) : A LiDAR perception package for ROS 2 Humble and CUDA, designed specifically for detecting moving buckets.
+- [gn10-shot-manager](https://github.com/tmcit-ararobo-2026a/gn10-shot-manager) : fine-tuning target points, synchronous recorder for launch trials
 - [opponent-tracker](https://github.com/tmcit-ararobo-2026a/opponent-tracker) : Opponent robot tracker for NHK Kosen Robocon 2026
 
 ## Firmware & Hardware (Electronic Boards)
