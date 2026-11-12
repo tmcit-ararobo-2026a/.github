@@ -5,7 +5,6 @@ Tokyo Metropolitan College of Industrial Technology Team A – Participant in th
 Parent Organization: [ararobo](https://github.com/ararobo)
 
 <img width="1454" height="1634" alt="image" src="https://github.com/user-attachments/assets/15ed1c2c-dfda-4f02-a233-edc923ffbb19" />
-<img width="1080" height="1080" alt="compressed_IMG20261011183649_1" src="https://github.com/user-attachments/assets/afd77c29-ce07-4f9c-9e79-0a83f14f213d" />
 
 ---
 
@@ -24,6 +23,8 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 - [robo-con-for-Ethernet](https://github.com/tmcit-ararobo-2026a/robo-con-for-Ethernet) : Original custom controller with Ethernet connection
 - [power-management-board](https://github.com/tmcit-ararobo-2026a/power-management-board) : Power management unit including voltage/current monitors and Emergency Stop
 - [esc-hub](https://github.com/tmcit-ararobo-2026a/esc-control-hub) : M2006/M3508 CAN bus hub for `gn10-can`
+
+<img width="1080" height="1080" alt="compressed_IMG20261011183649_1" src="https://github.com/user-attachments/assets/afd77c29-ce07-4f9c-9e79-0a83f14f213d" />
 
 ## Simulation
 - [robot-sim-unity](https://github.com/tmcit-ararobo-2026a/robot-sim-unity) : Robot simulation environment using Unity
