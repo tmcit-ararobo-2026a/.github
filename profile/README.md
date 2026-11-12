@@ -4,6 +4,9 @@ Tokyo Metropolitan College of Industrial Technology Team A – Participant in th
 
 Parent Organization: [ararobo](https://github.com/ararobo)
 
+<img width="1454" height="1634" alt="image" src="https://github.com/user-attachments/assets/15ed1c2c-dfda-4f02-a233-edc923ffbb19" />
+<img width="1080" height="1080" alt="compressed_IMG20261011183649_1" src="https://github.com/user-attachments/assets/afd77c29-ce07-4f9c-9e79-0a83f14f213d" />
+
 ---
 
 ## ROS 2 Packages
