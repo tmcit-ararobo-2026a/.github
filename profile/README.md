@@ -10,8 +10,6 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 
 ## ROS 2 Packages
 
-<img width="2837" height="1179" alt="image" src="https://github.com/user-attachments/assets/23a7bfeb-e470-4fa9-b02c-8e571a33e8ed" />
-
 - [gn10-pointcloud-localization](https://github.com/tmcit-ararobo-2026a/gn10-pointcloud-localization) : 3D LiDAR localization using ESDF map
 - [gn10-navigation](https://github.com/tmcit-ararobo-2026a/gn10-navigation) : Navigation stack for NHK Kosen Robocon 2026
 - [realsense_dust_cloth_tracker](https://github.com/tmcit-ararobo-2026a/realsense_dust_cloth) : Dust cloth tracker using RealSense for NHK Kosen Robocon 2026
@@ -19,9 +17,10 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 - [gn10-shot-manager](https://github.com/tmcit-ararobo-2026a/gn10-shot-manager) : fine-tuning target points, synchronous recorder for launch trials
 - [opponent-tracker](https://github.com/tmcit-ararobo-2026a/opponent-tracker) : Opponent robot tracker for NHK Kosen Robocon 2026
 
-## Firmware & Hardware (Electronic Boards)
+<img width="2837" height="1179" alt="image" src="https://github.com/user-attachments/assets/23a7bfeb-e470-4fa9-b02c-8e571a33e8ed" />
 
-<img width="1080" height="1080" alt="compressed_IMG20261011183649_1" src="https://github.com/user-attachments/assets/afd77c29-ce07-4f9c-9e79-0a83f14f213d" />
+
+## Firmware & Hardware (Electronic Boards)
 
 - [gn10-mainboard](https://github.com/tmcit-ararobo-2026a/gn10-mainboard) : Main Controller for our robot
 - [vesc-hub](https://github.com/tmcit-ararobo-2026a/vesc-hub) : Belt launcher controller for our robot
@@ -29,6 +28,9 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 - [robo-con-for-Ethernet](https://github.com/tmcit-ararobo-2026a/robo-con-for-Ethernet) : Original custom controller with Ethernet connection
 - [power-management-board](https://github.com/tmcit-ararobo-2026a/power-management-board) : Power management unit including voltage/current monitors and Emergency Stop
 - [esc-hub](https://github.com/tmcit-ararobo-2026a/esc-control-hub) : M2006/M3508 CAN bus hub for `gn10-can`
+
+<img width="1080" height="1080" alt="compressed_IMG20261011183649_1" src="https://github.com/user-attachments/assets/afd77c29-ce07-4f9c-9e79-0a83f14f213d" />
+
 
 ## Simulation
 - [robot-sim-unity](https://github.com/tmcit-ararobo-2026a/robot-sim-unity) : Robot simulation environment using Unity
