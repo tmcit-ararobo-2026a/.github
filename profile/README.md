@@ -36,3 +36,5 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 - [robot-sim-unity](https://github.com/tmcit-ararobo-2026a/robot-sim-unity) : Robot simulation environment using Unity
 - [robot-sim](https://github.com/tmcit-ararobo-2026a/robot-sim) : Robot simulation environment using Isaac Sim *(Coming Soon)*
 - [gn10.mid360s](https://github.com/tmcit-ararobo-2026a/gn10.mid360s) : MID360 extension for Isaac Sim (used by `robot-sim`)
+
+<img width="1920" height="1080" alt="compressed_Screenshot from 2026-11-12 19-49-58" src="https://github.com/user-attachments/assets/2c6d7423-999b-4e6d-9b8a-7518fcee00ca" />
