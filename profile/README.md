@@ -24,10 +24,9 @@ Parent Organization: [ararobo](https://github.com/ararobo)
 
 - [gn10-mainboard](https://github.com/tmcit-ararobo-2026a/gn10-mainboard) : Main Controller for our robot
 - [vesc-hub](https://github.com/tmcit-ararobo-2026a/vesc-hub) : Belt launcher controller for our robot
-- [robo-con-for-Wi-Fi](https://github.com/tmcit-ararobo-2026a/robo-con-for-Wi-Fi) : Original custom controller with Wi-Fi 6E (6GHz) support
 - [robo-con-for-Ethernet](https://github.com/tmcit-ararobo-2026a/robo-con-for-Ethernet) : Original custom controller with Ethernet connection
 - [power-management-board](https://github.com/tmcit-ararobo-2026a/power-management-board) : Power management unit including voltage/current monitors and Emergency Stop
-- [esc-hub](https://github.com/tmcit-ararobo-2026a/esc-control-hub) : M2006/M3508 CAN bus hub for `gn10-can`
+- [esc-control-hub](https://github.com/tmcit-ararobo-2026a/esc-control-hub) : M2006/M3508 CAN bus hub for `gn10-can`
 
 <img width="1080" height="1080" alt="compressed_IMG20261011183649_1" src="https://github.com/user-attachments/assets/afd77c29-ce07-4f9c-9e79-0a83f14f213d" />
 
